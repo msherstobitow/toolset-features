@@ -16,7 +16,7 @@ If you completed the optional steps, you will be able to use admin menu **Toolse
 
 ## Screenshots
 ### Closed blocks screen
-![losed blocks screen](https://github.com/kaok/toolset-features/blob/master/screenshots/closed.png)
+![losed blocks screen](https://raw.githubusercontent.com/kaok/toolset-features/master/screenshots/closed.png)
 
 ### Opened blocks screen
-![Opened blocks screen](https://github.com/kaok/toolset-features/blob/master/screenshots/opened.png)
+![Opened blocks screen](https://raw.githubusercontent.com/kaok/toolset-features/master/screenshots/opened.png)
